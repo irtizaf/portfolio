@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image { background: url(https://scontent.fkhi16-1.fna.fbcdn.net/v/t1.6435-9/70909155_2795421997148455_420379609247252480_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_ohc=t5R2CPtMYFwAX8xG-M-&_nc_ht=scontent.fkhi16-1.fna&oh=00_AfDu26R5A9tFQNDdipdiim9XUHPO-wzZZkKY4zJcuarYMw&oe=64762831);
+background-repeat: no-repeat;
+background-size:cover;
+box-shadow: 0px 2048px rgba(0, 0, 0, 0.562) inset;
+
+
+}
+
+.p{
+    font-size: larger;
+}
+
+/* @layer base {
+    body {
+      @apply min-w-[24rem] text-[0.9rem] text-gray-800;
+    }
+  } */
+  
+  /* @layer components {
+    .container {
+      @apply max-w-xl my-24 mx-auto p-3 border border-gray-200;
+    }
+    .container > img {
+      @apply h-12 w-12 rounded-full mr-3;
+    }
+    a {
+      @apply text-gray-500;
+    }
+    a > strong {
+      @apply text-gray-800;
+    }
+    .options {
+      @apply h-4;
+    }
+    .actions {
+      @apply max-w-md mt-2;
+    }
+    .actions img {
+      @apply h-[1.1rem] inline-block align-middle mr-2;
+    }
+    .actions span {
+      @apply text-[0.8rem] text-gray-600;
+    }
+  } */
