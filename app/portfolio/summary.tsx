@@ -69,28 +69,28 @@ export const Summary = () => {
             <div className=''>
               <div className=' md:w-11/12 md:mt-5 lg:mt-0 flex justify-between ' >
                 <p>Web Design</p>
-                <p>85%</p>
+                <p>90%</p>
               </div>
               <div className="mt-2 bg-gray-200 rounded-full lg:h-2 h-2 md:w-full  dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full md:w-9/12 w-52" ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full  w-[90%]" ></div>
               </div>
             </div>
             <div>
               <div className=' md:w-11/12 flex justify-between ' >
                 <p>HTML/CSS</p>
-                <p>95%</p>
+                <p>99%</p>
               </div>
               <div className="mt-2 bg-gray-200 rounded-full h-2 md:w-full  dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full w-10/12" ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full w-[99%]" ></div>
               </div>
             </div>
             <div>
               <div className='md:w-11/12 flex justify-between ' >
-                <p>JavaScript</p>
+                <p>TypeScript</p>
                 <p>85%</p>
               </div>
               <div className="mt-2 bg-gray-200 rounded-full h-2 md:w-full  dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full lg:w-9/12 w-52 " ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full w-[85%] " ></div>
               </div>
             </div>
 
@@ -101,20 +101,20 @@ export const Summary = () => {
             <div className=''>
               <div className=' md:w-11/12 flex justify-between ' >
                 <p>React JS</p>
-                <p>65%</p>
+                <p>85%</p>
               </div>
               
               <div className="mt-2 bg-gray-200 rounded-full h-2 lg:w-11/12 dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full lg:w-60 w-44" ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full w-[85%]" ></div>
               </div>
             </div>
             <div>
               <div className='md:w-11/12 flex justify-between ' >
-                <p>Angular Js</p>
-                <p>55%</p>
+                <p>Next JS</p>
+                <p>85%</p>
               </div>
               <div className="mt-2 bg-gray-200 rounded-full h-2 lg:w-11/12 w-full dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full lg:w-56 w-40" ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full w-[85%]" ></div>
               </div>
             </div>
             <div>
@@ -123,7 +123,7 @@ export const Summary = () => {
                 <p>95%</p>
               </div>
               <div className="mt-2 bg-gray-200 rounded-full h-2 lg:w-11/12 w-full dark:bg-gray-700">
-                <div className="bg-[#1baa80] h-2 rounded-full w-10/12" ></div>
+                <div className="bg-[#1baa80] h-2 rounded-full w-[95%]" ></div>
               </div>
             </div>
 
